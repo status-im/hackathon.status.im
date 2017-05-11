@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="40px" viewBox="0 0 52 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-bubble</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280" transform="translate(-506.000000, -2248.000000)">
+            <g id="Group-4" transform="translate(120.000000, 2057.000000)">
+                <g id="Group-3" transform="translate(120.000000, 182.000000)">
+                    <g id="Group-22" transform="translate(266.000000, 9.000000)">
+                        <g id="icon-bubble">
+                            <path d="M52,27.9997475 L52,6.00025246 C52,2.68211672 49.316851,0 46.007019,0 L5.99298096,0 C2.6821302,0 0,2.68640453 0,6.00025246 L0,27.9997475 C0,31.3178833 2.68314897,34 5.99298096,34 L45.1154777,34 L49.4023133,38.9705408 C50.8400277,40.6375555 52.0134759,40.2058994 52.0115146,37.9927643 L52.0035513,29.0072357 C52.0034107,28.8485885 51.9941218,28.692152 51.976186,28.5384203 C51.9919495,28.3609718 52,28.1813013 52,27.9997475 Z" id="Combined-Shape" fill="#F1EAF3"></path>
+                            <circle id="Oval-6" fill="#D7C4DC" cx="15" cy="17" r="3"></circle>
+                            <circle id="Oval-6" fill="#D7C4DC" cx="26" cy="17" r="3"></circle>
+                            <circle id="Oval-6" fill="#D7C4DC" cx="37" cy="17" r="3"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

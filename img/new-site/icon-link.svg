@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-link</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280" transform="translate(-1048.000000, -1134.000000)" fill="#64707B">
+            <g id="Group-14" transform="translate(100.000000, 984.000000)">
+                <g id="Group-31" transform="translate(619.000000, 0.000000)">
+                    <g id="Group-27" transform="translate(54.000000, 0.000000)">
+                        <g id="Group" transform="translate(32.000000, 150.000000)">
+                            <g id="Group-22" transform="translate(243.000000, 0.000000)">
+                                <path d="M2,12 C2,8.6862915 4.67653633,6 8.00065947,6 L15.9993405,6 C19.3134132,6 22,8.69303423 22,12 C22,15.3137085 19.3234637,18 15.9993405,18 L8.00065947,18 C4.68658675,18 2,15.3069658 2,12 Z M4,12 C4,14.2046438 5.78916089,16 7.99620271,16 L16.0037973,16 C18.2111696,16 20,14.209139 20,12 C20,9.79535615 18.2108391,8 16.0037973,8 L7.99620271,8 C5.78883037,8 4,9.790861 4,12 Z M11,6 L13,6 L13,8 L11,8 L11,6 Z M11,16 L11,18 L13,18 L13,16 L11,16 Z M8,12 C8,11.4477153 8.45303631,11 8.99703014,11 L15.0029699,11 C15.5536144,11 16,11.4438648 16,12 C16,12.5522847 15.5469637,13 15.0029699,13 L8.99703014,13 C8.4463856,13 8,12.5561352 8,12 Z" id="Combined-Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
