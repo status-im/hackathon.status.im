@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="46px" viewBox="0 0 34 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280" transform="translate(-240.000000, -2245.000000)">
+            <g id="Group-4" transform="translate(120.000000, 2057.000000)">
+                <g id="Group-3" transform="translate(120.000000, 182.000000)">
+                    <g id="icon-phone" transform="translate(0.000000, 6.000000)">
+                        <path d="M0,4.00172845 C0,1.79163485 1.79203193,0 4.00021236,0 L29.9997876,0 C32.2090439,0 34,1.78913646 34,4.00172845 L34,41.9982716 C34,44.2083651 32.2079681,46 29.9997876,46 L4.00021236,46 C1.79095608,46 0,44.2108635 0,41.9982716 L0,4.00172845 Z" id="Combined-Shape" fill="#F1EAF3"></path>
+                        <path d="M5,9.00552025 C5,6.7933325 6.78429328,5 8.99005301,5 L25.009947,5 C27.2135924,5 29,6.78708529 29,9.00552025 L29,26.9944797 C29,29.2066675 27.2157067,31 25.009947,31 L8.99005301,31 C6.78640758,31 5,29.2129147 5,26.9944797 L5,9.00552025 Z" id="Combined-Shape" fill="#D8C5DE"></path>
+                        <circle id="Oval-5" fill="#D8C5DE" cx="17" cy="38" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
