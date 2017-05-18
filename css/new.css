@@ -5,3 +5,6 @@ blockquote {
     border: 1px solid #e3e6e7;
     margin-top: 24px;
 }
+em {
+	font-style: italic;
+}
