@@ -8,3 +8,10 @@ blockquote {
 em {
 	font-style: italic;
 }
+.faq-rules {
+	list-style-type: decimal;
+	font-size: 92%;
+}
+.faq-rules li:not(:first-child) {
+	margin-top: 12px;
+}
