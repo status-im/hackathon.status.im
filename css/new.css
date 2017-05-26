@@ -1,1 +1,27 @@
 /* Added all new CSS to main.css, but please keep adding your own CSS here. Thanks in Advance! */
+
+.supported-by {
+	text-align: center;
+	padding: 52px 0 0 0;
+}
+
+.supported-by img { 
+	height: 65px; /* smaller than real size to provide for retina devices */
+	filter: grayscale(100%);
+}
+
+.supported-by img:hover {
+	filter: none;
+}
+
+@media (min-width: 568px) {
+.supported-by a:not(:first-child) {
+	margin-left: 48px;
+}
+}
+
+@media (max-width: 568px) {
+.supported-by a {
+	display: block;
+}
+}
