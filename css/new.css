@@ -1,1 +1,5 @@
 /* Added all new CSS to main.css, but please keep adding your own CSS here. Thanks in Advance! */
+
+.judge-jorge .judge-picture {
+    background-image: url(../img/judges/jorge-izquierdo.jpg);
+}
