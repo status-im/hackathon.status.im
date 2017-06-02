@@ -3,3 +3,15 @@
 .judge-jorge .judge-picture {
     background-image: url(../img/judges/jorge-izquierdo.jpg);
 }
+
+.judge-ben .judge-title:after {
+	background-image: url(../img/new-site/apple-touch-icon-76.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 16px;
+    height: 20px;
+    padding-left: 16px;
+    margin-left: 5px;
+    content: "";
+}
