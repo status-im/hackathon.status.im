@@ -4,7 +4,11 @@
     background-image: url(../img/judges/jorge-izquierdo.jpg);
 }
 
-.judge-ben .judge-title:after {
+.judge-andy .judge-picture {
+    background-image: url(../img/judges/andy-tudhope.jpg);
+}
+
+.judge-andy .judge-title:after {
 	background-image: url(../img/new-site/apple-touch-icon-76.png);
     background-size: 16px;
     background-repeat: no-repeat;
@@ -14,4 +18,32 @@
     padding-left: 16px;
     margin-left: 5px;
     content: "";
+}
+
+.register {
+    margin-top: 15px;
+}
+
+input.hs-input:focus, textarea.hs-input:focus {
+    border-color: rgba(119,56,138,0.8) !important;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1), 0 0 8px rgba(119,56,138,0.6) !important;
+}
+
+.hs-button {
+    text-shadow: 0 -1px 0 #77388a !important;
+    background-color: #77388a !important;
+    background-image: linear-gradient(to bottom, #794D85,#77388a) !important;
+    border-top: 1px solid #794D85 !important;
+    border-bottom: 1px solid #77388a !important;
+    border-right: 1px solid #794D85 !important;
+    border-left: 1px solid #794D85 !important;
+}
+
+.hs-button.hovered:not(.inactive) {
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5), 0 0 5px #77388a;
+}
+
+label {
+    color: #8d99a4 !important;
+    font-size: 16px !important;
 }
